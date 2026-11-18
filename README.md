@@ -6,8 +6,47 @@
 
 **An agentic workspace: chat with an AI agent that draws on a canvas and writes docs, while your team works alongside it in real time.**
 
-Built step by step in a YouTube tutorial on the **roadsidecoder** channel.<br />
-## ▶ **Watch the tutorial:** https://youtu.be/vNXrFMSAsOA
+# 🚀 Outpost – AI Agentic Workspace
+
+An AI-powered collaborative workspace where users can work with AI agents, create diagrams, write documents, and collaborate in real time.
+
+## 🌐 Live Demo
+
+[Visit Website](YOUR_LIVE_URL)
+
+## ✨ Features
+
+- AI-powered assistant
+- Interactive canvas
+- Real-time collaboration
+- Smart document editor
+- Kanban project management
+- User authentication
+- PDF export
+
+## 🛠️ Tech Stack
+
+- Next.js
+- React.js
+- TypeScript
+- Tailwind CSS
+- Supabase
+- Prisma
+- Clerk
+- Google Gemini AI
+- tldraw
+- Yjs
+
+## 👨‍💻 Developer
+
+Vicky Kumar
+
+GitHub: https://github.com/vickydevteck
+
+## 📄 License
+
+GPL-3.0
+
 
 </div>
 
