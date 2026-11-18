@@ -1,6 +1,5 @@
 <div align="center">
 
-<img width="1280" height="720" alt="outpost (1)" src="https://github.com/user-attachments/assets/f7036758-0862-4941-828c-aedace29bbbc" />
 
 # Outpost
 
